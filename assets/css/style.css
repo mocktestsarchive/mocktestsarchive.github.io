@@ -17,6 +17,10 @@ a:hover {
     color: gray;
 }
 
+p{
+    margin: 0px;
+}
+
 
 .container {
     width: 95vw; 
@@ -54,6 +58,17 @@ a:hover {
     word-break: keep-all;
 }
 
+
+.title_home{
+    font-family: 'SUITE'; 
+    font-weight: 500;
+    font-size: 1.4rem;
+    word-break: keep-all;
+    text-align: center;
+    padding: 0px;
+    padding-top: 3vh;
+}
+
 .subtitle{
     font-size: 1.2rem;
     color: #2400FF;
@@ -71,3 +86,41 @@ a:hover {
     margin-top: 0.3em;
 }
 
+.container_home{
+    align-content: center;
+    text-align: center;
+    font-family: 'SUITE'; 
+    font-weight: 300;
+    
+    
+}
+
+.notice_kice{
+    padding: 0px;
+    align-content: center;
+    text-align: center;
+    font-family: 'SUITE'; 
+    font-weight: 100;
+    
+}
+
+
+
+.go{
+    box-shadow: none;
+    background-color: rgb(192, 62, 72);
+    border-radius: 20px;
+    width: 20vw;
+    min-height: 30px;
+    min-width: 50px;
+    border: none;
+    height: 5vh;
+    font-family: 'SUITE';
+    font-weight: 300;
+    color: white;
+}
+
+.go:hover{
+    background-color: rgb(119, 37, 44);
+    cursor: pointer;
+}
