@@ -24,6 +24,6 @@ function submit(){
 }   
 
 function go(){
-    url = "/web/"+r_year+"-"+month+"-H"+grade+".html";
+    url = "/web/"+r_year+"-"+month+"-H"+grade+"/";
     window.location.href = url;
 }
