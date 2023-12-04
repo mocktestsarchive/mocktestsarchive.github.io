@@ -85,7 +85,7 @@
 .grid_sc{
     display: grid;
     grid-template-columns: 1fr;
-    grid-column-gap: 1vw;
+    grid-column-gap: 1.5vw;;
     
     padding-left: 1.5vw;
     padding-right: 1.5vw;
@@ -94,14 +94,14 @@
 .grid2 {
 	display: grid;
     grid-template-columns: repeat(4, 1fr);
-    grid-column-gap: 1vw;
+    grid-column-gap: 1.5vw;;
     padding-top: 1.5vh;
 }
 
 .grid3 {
 	display: grid;
     grid-template-columns: repeat(4, 1fr);
-    grid-column-gap: 1vw;
+    grid-column-gap: 1.5vw;;
     padding-top: 1.5vh;
 }
 
@@ -109,7 +109,7 @@
 .grid_so {
 	display: grid;
     grid-template-columns: 1fr;
-    grid-column-gap: 1vw;
+    grid-column-gap: 1.5vw;;
     padding-left: 1.5vw;
     padding-right: 1.5vw;
 }
@@ -117,7 +117,7 @@
 .grid4 {
 	display: grid;
     grid-template-columns: repeat(auto-fit, minmax(10px, 1fr));
-    grid-column-gap: 1vw;
+    grid-column-gap: 1.5vw;;
     padding-top: 1.5vh;
     /* padding-left: 1.5vw; */
     /* padding-right: 1.5vw; */
@@ -125,7 +125,7 @@
 .grid5 {
 	display: grid;
     grid-template-columns: repeat(auto-fit, minmax(10px, 1fr));
-    grid-column-gap: 1vw;
+    grid-column-gap: 1.5vw;;
     padding-top: 1.5vh;
     /* padding-left: 1.5vw; */
     /* padding-right: 1.5vw; */
@@ -135,13 +135,13 @@
 .grid6 {
 	display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-column-gap: 1vw;
+    grid-column-gap: 1.5vw;;
     padding-top: 1.5vh;
 }
 
 .grid7 {
 	display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-column-gap: 1vw;
+    grid-column-gap: 1.5vw;;
     padding-top: 1.5vh;
 }
